@@ -3,42 +3,37 @@
     /*border: red 2px solid;*/
 }
 
-li {
-  list-style-type: none;
-}
-
-title {
-
-}
-
-h3 {
-  font-size: 300%;
-}
-
 body {
   border: grey 2px solid;
   width: 340px;
   padding: 30px;
 }
 
-img {
+.animal-img {
   vertical-align: middle;
 }
 
-ul {
-  margin: auto;
-}
-
-li {
+.li-fact {
   margin-left: -40px;
+  list-style-type: none;
 }
 
-h3 {
+.anima-title {
   margin: auto;
+  font-size: 300%;
 }
-#main_text {
+.main_text {
   border: grey 2px solid;
   width: 290px;
   margin-top: 10px;
   padding: 5px;
+  font-style: italic;
+}
+
+.sub-title {
+  font-weight: bolder;
+}
+
+.sub-info {
+  font-style: italic;
 }
